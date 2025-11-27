@@ -1,0 +1,5 @@
+{
+  "name": "Prototyper AI",
+  "description": "An AI-powered software architecture tool that generates UI mockups, database schemas, and API plans from a single text prompt using Gemini 2.5.",
+  "requestFramePermissions": []
+}
